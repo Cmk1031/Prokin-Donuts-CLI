@@ -6,20 +6,18 @@
 
 
 ## 소개
-소매점 운영과 통합 재고 관리를 위한 WMS를 개발합니다.
+WMS 창고관리 시스템 개발 
 
 - 프로젝트 소개
 - 개발 기간
 - 주요 기능
-- 프로젝트 클래스 다이어그램
 - 기술 스택
-- 기술적 이슈와 해결 과정
 - 프로젝트 팀원
 
 <br>
 
 ## 프로젝트 소개 
-
+건강한 도넛 브랜드 'Prokin Donuts'를 창설하고, 소매점 운영과 통합 재고 관리를 위한 WMS를 개발한다. 
 
 
 <br>
@@ -46,13 +44,7 @@
 - 출고 관리
 - 재고 관리
 - 창고 관리
-
-
-<br>
-
-## 프로젝트 클래스 다이어그램
-
-
+  
 <br>
 
 
@@ -68,19 +60,21 @@
 ### Tools
 <div>
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Notion.png?raw=true" width="80">
 
 <br />
 
 
 <br>
 
-## 기술적 이슈와 해결 과정 
-
-
-<br>
 
 ## 프로젝트 팀원 
 
+- 고윤아 [#kya9505](https://github.com/kya9505)
+  
+- 박건희 [#psns0122](https://github.com/psns0122)
+  
+- 정명채 [#jyngmyungchae](https://github.com/jyngmyungchae)
 
 
 
